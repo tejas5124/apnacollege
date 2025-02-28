@@ -1,4 +1,4 @@
 # apnacollege
 first repo 
 <br>
-Author - Tejas Gophane
+Author - Tejas Gophane (apnacollege)
